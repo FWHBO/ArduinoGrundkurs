@@ -1,2 +1,1 @@
-Arduino Grundkurs
-================
+Ein grundlegender Kurs für Arduino.
